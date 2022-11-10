@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
 	font-family: "georgia";
 	padding-left: 50px;
@@ -47,54 +46,3 @@ h2 {
 }
 footer {
 	padding-top: 100px;
-=======
-body {
-	font-family: "georgia";
-	padding-left: 50px;
-	padding-top: 80px;
-	background-color:#FFF5EE;
-}
-.topnav {
-  background-color: #FFE4E1;
-  overflow: hidden;
-  margin-right: 800px;
-}
-
-.topnav a {
-  float: left;
-  color: #000000;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.topnav a.active {
-  background-color: #FF69B4;
-  color: white;
-}
-.flex-container {
-	display:flex;
-	flex-row: row wrap;
-	justify-content: space-around;
-}
-
-.flex-item {
-}
-	
-h1 {
-	color: #FFE4E1;
-}
-h2 {
-	color: #FFC0CB;
-	padding-top: 30px;
-}
-footer {
-	padding-top: 100px;
->>>>>>> 25a7c7478a2fb85d1eac6f9bcd65f7f8644bd3b8
-}	
