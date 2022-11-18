@@ -2,13 +2,12 @@ body {
 	font-family: "georgia";
 	padding-left: 50px;
 	padding-top: 80px;
-	padding-right: 1000px;
 	background-color:#FFF5EE;
 }
 .topnav {
   background-color: #FFE4E1;
   overflow: hidden;
-  margin-right: 0px;
+  margin-right: 80px;
 }
 
 .topnav a {
