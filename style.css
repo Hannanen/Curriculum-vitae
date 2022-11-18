@@ -12,6 +12,7 @@ body {
 
 .topnav a {
   float: left;
+  display:block;
   color: #000000;
   text-align: center;
   padding: 14px 16px;
@@ -31,6 +32,7 @@ body {
 .topnav .icon {
   display: none;
 }
+
 .flex-container {
 	display:flex;
 	flex-row: row wrap;
@@ -38,6 +40,15 @@ body {
 }
 
 .flex-item {
+}
+
+function myFunction() {
+	var x = document.getElementById("myTopnav");
+	if (x.className === "topnav") {
+		x.className += " responsive";
+	} else {
+		x.className = "topnav";
+	}
 }
 	
 h1 {
