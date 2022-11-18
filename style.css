@@ -28,6 +28,9 @@ body {
   background-color: #FF69B4;
   color: black;
 }
+.topnav .icon {
+  display: none;
+}
 .flex-container {
 	display:flex;
 	flex-row: row wrap;
